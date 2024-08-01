@@ -4,7 +4,6 @@ import sys
 from sys import platform
 from typing import Sequence
 
-from pyprojroot.here import here
 from copier import run_copy
 import pytest
 
